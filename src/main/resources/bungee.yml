@@ -3,3 +3,4 @@ version: '${project.version}'
 main: me.shinthl09.ToolboxBlocker
 description: Block Toolbox Join Your Minecraft Server
 author: ShinTHL09, flashbtw
+softDepends: [Geyser-BungeeCord]
