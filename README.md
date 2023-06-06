@@ -5,5 +5,5 @@ A Plugin Block Player Use Toolbox Join Your Server (Bungeecord/Waterfall Plugin)
 Put It In The Plugin Folder Of Bunggecord/Waterfall
 
 # softDepends
-[Geyser-BungeeCord] https://geysermc.org/download#bungeecord
+![Geyser-BungeeCord](https://geysermc.org/download#bungeecord)
 
