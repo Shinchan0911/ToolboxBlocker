@@ -1,0 +1,32 @@
+#################################################################################################
+###     _______            _  _                  ____   _               _                     ###
+###    |__   __|          | || |                |  _ \ | |             | |                    ###
+###      | |  ___    ___  | || |__    ___ __  __| |_) || |  ___    ___ | | __ ___  _ __       ###
+###      | | / _ \  / _ \ | || '_ \  / _ \\ \/ /|  _ < | | / _ \  / __|| |/ // _ \| '__|      ###
+###      | || (_) || (_) || || |_) || (_) |>  < | |_) || || (_) || (__ |   <|  __/| |         ###
+###      |_| \___/  \___/ |_||_.__/  \___//_/\_\|____/ |_| \___/  \___||_|\_\\___||_|         ###
+###                                                                                           ###
+###                          Author: ShinTHL09, flashbtw                                      ###
+###                                                                                           ###
+#################################################################################################
+
+# DON'T TOUCH # #
+version: "1.0.0"#
+# # # # # # # # #
+
+Webhook-URL: "your-webhook-url"
+Webhook-Avt: "your-webhook-avt-url"
+Webhook-Name: "your-webhook-name"
+
+Log:
+  send-embed: false
+  log-to-txt: false
+
+Messages:
+  toolbox-kick-message: "<red>Toolbox is not allowed to access the server</red>"
+
+Embed:
+  toolbox-kick:
+    title: "Discover"
+    description: "Player Using Toolbox \n\n ** Player: ** \n {player} \n\n ** UUID: ** \n {uuid} \n\n ** Model Name: ** \n {modelname} \n\n ** DeviceOS: ** \n {deviceos} \n\n ** Time: ** \n {time}"
+    color: "#00FF00" #hex color
