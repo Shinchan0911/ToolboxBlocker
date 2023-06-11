@@ -7,3 +7,5 @@ Put It In The Plugin Folder Of Bunggecord/Waterfall
 # Soft Depends
 [Geyser-BungeeCord](https://geysermc.org/download#bungeecord)
 
+# Note
+plugin By Flash_Btw And Rebuild By Me
